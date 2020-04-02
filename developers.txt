@@ -48,8 +48,8 @@ Group_6		Name				github username
 --------------------------------------------------------------------
 
 Member 1:MOHAMMED ROSHAN M			mhdroshan
-Member 2:NIKHIL T N
-Member 3:SREEHARI PRASAD T M			matrixhead
+Member 2:NIKHIL T N             Nikhilnandagopan
+Member 3:SREEHARI PRASAD T M		matrixhead
 
 Group_7		Name				github username
 --------------------------------------------------------------------
