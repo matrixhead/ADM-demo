@@ -47,9 +47,9 @@ Member 3: MOHAMMED ASHIQUE P
 Group_6		Name				github username
 --------------------------------------------------------------------
 
-Member 1:MOHAMMED ROSHAN M
-Member 2:NIKHIL T N                              Nikhilnandagopan
-Member 3:SREEHARI PRASAD T M
+Member 1:MOHAMMED ROSHAN M			mhdroshan
+Member 2:NIKHIL T N             Nikhilnandagopan
+Member 3:SREEHARI PRASAD T M		matrixhead
 
 Group_7		Name				github username
 --------------------------------------------------------------------
