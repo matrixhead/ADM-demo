@@ -49,7 +49,7 @@ Group_6		Name				github username
 
 Member 1:MOHAMMED ROSHAN M
 Member 2:NIKHIL T N
-Member 3:SREEHARI PRASAD T M
+Member 3:SREEHARI PRASAD T M			matrixhead
 
 Group_7		Name				github username
 --------------------------------------------------------------------
