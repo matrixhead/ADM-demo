@@ -48,7 +48,7 @@ Group_6		Name				github username
 --------------------------------------------------------------------
 
 Member 1:MOHAMMED ROSHAN M
-Member 2:NIKHIL T N                              Nikhil_nandagopan
+Member 2:NIKHIL T N                              Nikhilnandagopan
 Member 3:SREEHARI PRASAD T M
 
 Group_7		Name				github username
